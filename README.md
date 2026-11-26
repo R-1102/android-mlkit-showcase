@@ -21,6 +21,14 @@ The application brings together seven interactive machine learning features acro
 - **Text Translation:** Translate English text into Spanish using downloadable on-device language models.
 - **Smart Reply:** Generate suggested responses through an interactive chat interface.
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/home.png" width="30%" alt="Home Screen" />
+  <img src="screenshots/vision.png" width="30%" alt="Vision APIs" />
+  <img src="screenshots/natural-language.png" width="30%" alt="Natural Language APIs" />
+</p>
+
 ## Technologies
 
 - Kotlin
